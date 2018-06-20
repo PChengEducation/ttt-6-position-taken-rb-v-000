@@ -8,7 +8,7 @@ elsif board[index] == ""
 elsif board[index] == "X" || board[index] == "O"
   return true
 
-else 
+else
   return false
 end
 end
