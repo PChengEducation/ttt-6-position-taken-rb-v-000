@@ -4,7 +4,7 @@ if board[0] == " "
   return false
 elsif board[index] == ""
   return false
-elsif board[index] = nil
+elsif board[index] == nil
   return false
 end
 end
